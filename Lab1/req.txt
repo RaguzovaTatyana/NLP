@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+warnings
+regex
+sklearn
+tensorflow
+tensorflow
+torch
